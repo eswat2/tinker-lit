@@ -1,0 +1,38 @@
+{
+  "name": "tinker-lit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
+    "twx": "sh ./.generate",
+    "start": "vite",
+    "cc": "prettier --check './src/**/*.{css,pcss,js}'",
+    "format": "prettier --write './src/**/*.{css,pcss,js}'",
+    "spell": "cspell './src/**/*.{html,js}'",
+    "build": "yarn twx; yarn format; vite build",
+    "preview": "vite preview",
+    "predeploy": "yarn version --patch; yarn build",
+    "deploy": "cd dist; ln -s ../.vercel; vc --prod",
+    "open": "open https://tinker-lit.vercel.app"
+  },
+  "dependencies": {
+    "lit": "2.6.1",
+    "nanostores": "0.7.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.13",
+    "concurrently": "7.6.0",
+    "cspell": "6.26.3",
+    "pettier": "1.1.0",
+    "postcss": "8.4.21",
+    "prettier": "2.8.4",
+    "prettier-plugin-tailwindcss": "0.2.3",
+    "proto-tailwindcss-clrs": "0.0.217",
+    "tailwindcss": "3.2.7",
+    "vite": "4.1.4"
+  }
+}
