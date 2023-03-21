@@ -29,7 +29,7 @@
     "cspell": "6.30.2",
     "pettier": "1.1.0",
     "postcss": "8.4.21",
-    "prettier": "2.8.5",
+    "prettier": "2.8.6",
     "prettier-plugin-tailwindcss": "0.2.5",
     "proto-tailwindcss-clrs": "0.0.222",
     "tailwindcss": "3.2.7",
