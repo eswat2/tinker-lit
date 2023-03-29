@@ -7,7 +7,7 @@ const who = "eswat2"
 const eswat2FC = (_props) => {
   return html`
     <a
-      class="text-clrs-gray hover:text-clrs-navy absolute top-8 right-8"
+      class="text-clrs-gray hover:text-clrs-navy absolute right-8 top-8"
       href=${url}
       aria-label=${who}
       target="blank"
