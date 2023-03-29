@@ -107,10 +107,10 @@
 }
 
 .ds1-header {
-  margin-right: 0px;
-  margin-left: 0px;
-  margin-top: 2.75rem;
   margin-bottom: 2.75rem;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 2.75rem;
   text-align: center;
   font-size: 3.75rem;
   line-height: 1;
