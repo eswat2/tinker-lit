@@ -20,7 +20,7 @@
     "open": "open https://tinker-lit.vercel.app"
   },
   "dependencies": {
-    "lit": "2.7.2",
+    "lit": "2.7.3",
     "nanostores": "0.8.0"
   },
   "devDependencies": {
@@ -33,6 +33,6 @@
     "prettier-plugin-tailwindcss": "0.2.7",
     "proto-tailwindcss-clrs": "0.0.231",
     "tailwindcss": "3.3.2",
-    "vite": "4.3.2"
+    "vite": "4.3.3"
   }
 }
