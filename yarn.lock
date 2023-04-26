@@ -905,9 +905,9 @@ dot-prop@^5.2.0:
     is-obj "^2.0.0"
 
 electron-to-chromium@^1.4.284:
-  version "1.4.372"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.372.tgz#7888ac92ccb9556627c3a37eba3b89ee5ac345f8"
-  integrity sha512-MrlFq/j+TYHOjeWsWGYfzevc25HNeJdsF6qaLFrqBTRWZQtWkb1myq/Q2veLWezVaa5OcSZ99CFwTT4aF4Mung==
+  version "1.4.373"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.373.tgz#58eb1c180e56550fdbf8cd6e4f04a84abd414bb9"
+  integrity sha512-whGyixOVSRlyOBQDsRH9xltFaMij2/+DQRdaYahCq0P/fiVnAVGaW7OVsFnEjze/qUo298ez9C46gnALpo6ukg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1338,10 +1338,10 @@ nanoid@^3.3.6:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
   integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
-nanostores@0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.8.0.tgz#eeafd5ecfe8dfe46034e6bdf59be83ad4715b2ef"
-  integrity sha512-Xgs3qwYhNYXyglDe41JEtACDvFZELFRofDBqBuJ02JG1mrwXWneQTsk89GHvW0bgLPcWXOz4GRm4enwgjnD8FQ==
+nanostores@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.8.1.tgz#963577028ac10eeb50bec376535f4762ab5af9be"
+  integrity sha512-1ZCfQtII2XeFDrtqXL2cdQ/diGrLxzRB3YMyQjn8m7GSGQrJfGST2iuqMpWnS/ZlifhtjgR/SX0Jy6Uij6lRLA==
 
 node-fetch@^2.6.9:
   version "2.6.9"
