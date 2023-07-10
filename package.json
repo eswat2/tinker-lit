@@ -20,19 +20,19 @@
     "open": "open https://tinker-lit.vercel.app"
   },
   "dependencies": {
-    "lit": "2.7.5",
-    "nanostores": "0.9.2"
+    "lit": "2.7.6",
+    "nanostores": "0.9.3"
   },
   "devDependencies": {
     "autoprefixer": "10.4.14",
     "concurrently": "8.2.0",
     "cspell": "6.31.1",
     "pettier": "1.1.0",
-    "postcss": "8.4.24",
-    "prettier": "2.8.8",
+    "postcss": "8.4.25",
+    "prettier": "3.0.0",
     "prettier-plugin-tailwindcss": "0.3.0",
-    "proto-tailwindcss-clrs": "0.0.253",
+    "proto-tailwindcss-clrs": "0.0.254",
     "tailwindcss": "3.3.2",
-    "vite": "4.3.9"
+    "vite": "4.4.2"
   }
 }
