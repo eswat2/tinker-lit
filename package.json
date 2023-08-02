@@ -20,7 +20,7 @@
     "open": "open https://tinker-lit.vercel.app"
   },
   "dependencies": {
-    "lit": "2.7.6",
+    "lit": "2.8.0",
     "nanostores": "0.9.3"
   },
   "devDependencies": {
