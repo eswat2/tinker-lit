@@ -33,6 +33,6 @@
     "prettier-plugin-tailwindcss": "0.5.6",
     "proto-tailwindcss-clrs": "0.0.279",
     "tailwindcss": "3.3.3",
-    "vite": "4.4.11"
+    "vite": "4.5.0"
   }
 }
