@@ -514,17 +514,17 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@lit-labs/ssr-dom-shim@^1.1.2-pre.0":
+"@lit-labs/ssr-dom-shim@^1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@lit-labs/ssr-dom-shim/-/ssr-dom-shim-1.1.2.tgz#d693d972974a354034454ec1317eb6afd0b00312"
   integrity sha512-jnOD+/+dSrfTWYfSXBXlo5l5f0q1UuJo3tkbMDCYA2lKUYq79jaxqtGEvnRoh049nt1vdo1+45RinipU6FGY2g==
 
 "@lit/reactive-element@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-2.0.0.tgz#da14a256ac5533873b935840f306d572bac4a2ab"
-  integrity sha512-wn+2+uDcs62ROBmVAwssO4x5xue/uKD3MGGZOXL2sMxReTRIT0JXKyMXeu7gh0aJ4IJNEIG/3aOnUaQvM7BMzQ==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-2.0.1.tgz#b17d8818d9c72ccc489f44e35d87cfa18a9c8c93"
+  integrity sha512-eu50SQXHRthFwWJMp0oAFg95Rvm6MTPjxSXWuvAu7It90WVFLFpNBoIno7XOXSDvVgTrtKnUV4OLJqys2Svn4g==
   dependencies:
-    "@lit-labs/ssr-dom-shim" "^1.1.2-pre.0"
+    "@lit-labs/ssr-dom-shim" "^1.1.2"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -662,9 +662,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001541:
-  version "1.0.30001554"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001554.tgz#ba80d88dff9acbc0cd4b7535fc30e0191c5e2e2a"
-  integrity sha512-A2E3U//MBwbJVzebddm1YfNp7Nud5Ip+IPn4BozBmn4KqVX7AvluoIDFWjsv5OkGnKUXQVmMSoMKLa3ScCblcQ==
+  version "1.0.30001557"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001557.tgz#13f762ea1d7f7b009d4d2785fbbd250354d09ad9"
+  integrity sha512-91oR7hLNUP3gG6MLU+n96em322a8Xzes8wWdBKhLgUoiJsAF5irZnxSUCbc+qUZXNnPCfUwLOi9ZCZpkvjQajw==
 
 chalk-template@^1.1.0:
   version "1.1.0"
@@ -958,9 +958,9 @@ dot-prop@^6.0.1:
     is-obj "^2.0.0"
 
 electron-to-chromium@^1.4.535:
-  version "1.4.566"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.566.tgz#5c5ba1d2dc895f4887043f0cc7e61798c7e5919a"
-  integrity sha512-mv+fAy27uOmTVlUULy15U3DVJ+jg+8iyKH1bpwboCRhtDC69GKf1PPTZvEIhCyDr81RFqfxZJYrbgp933a1vtg==
+  version "1.4.569"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.569.tgz#1298b67727187ffbaac005a7425490d157f3ad03"
+  integrity sha512-LsrJjZ0IbVy12ApW3gpYpcmHS3iRxH4bkKOW98y1/D+3cvDUWGcbzbsFinfUS8knpcZk/PG/2p/RnkMCYN7PVg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1333,25 +1333,25 @@ lines-and-columns@^1.1.6:
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
 
 lit-element@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/lit-element/-/lit-element-4.0.0.tgz#8343891bc9159a5fcb7f534914b37f2c0161e036"
-  integrity sha512-N6+f7XgusURHl69DUZU6sTBGlIN+9Ixfs3ykkNDfgfTkDYGGOWwHAYBhDqVswnFGyWgQYR2KiSpu4J76Kccs/A==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/lit-element/-/lit-element-4.0.1.tgz#fe9d82e2d034f819156f561f6f23b0ed0c9d19dc"
+  integrity sha512-OxRMJem4HKZt0320HplLkBPoi4KHiEHoPHKd8Lzf07ZQVAOKIjZ32yPLRKRDEolFU1RgrQBfSHQMoxKZ72V3Kw==
   dependencies:
-    "@lit-labs/ssr-dom-shim" "^1.1.2-pre.0"
+    "@lit-labs/ssr-dom-shim" "^1.1.2"
     "@lit/reactive-element" "^2.0.0"
     lit-html "^3.0.0"
 
 lit-html@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-3.0.0.tgz#77d6776ee488642c74c5575315ef81aa09d24ea9"
-  integrity sha512-DNJIE8dNY0dQF2Gs0sdMNUppMQT2/CvV4OVnSdg7BXAsGqkVwsE5bqQ04POfkYH5dBIuGnJYdFz5fYYyNnOxiA==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-3.0.1.tgz#bbdb94c8c13120940fd9b169047e06f665906005"
+  integrity sha512-1nmGaNNQg9rBvE1yJ6oS3ZNbLs3FXtlG4+jgGkix8O740qVEwwiFVTgDGIIH8N5TcQ8V9tBk5T+sxqBgffcjJg==
   dependencies:
     "@types/trusted-types" "^2.0.2"
 
-lit@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/lit/-/lit-3.0.0.tgz#204bd65935892a73670471e893ee8ca55d2f9a3b"
-  integrity sha512-nQ0teRzU1Kdj++VdmttS2WvIen8M79wChJ6guRKIIym2M3Ansg3Adj9O6yuQh2IpjxiUXlNuS81WKlQ4iL3BmA==
+lit@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/lit/-/lit-3.0.1.tgz#bc9136cf9303ae8c23d0adcf7847c971cc94aee9"
+  integrity sha512-CYFv7/gwrs6bfPm299O9LD/HB4dgHvsEf/yqUOI//fi469i2OrT4xaptUcmhr05DNQEgsBFecFH8EJnN5So8oQ==
   dependencies:
     "@lit/reactive-element" "^2.0.0"
     lit-element "^4.0.0"
@@ -1626,10 +1626,10 @@ prettier@3.0.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.0.3.tgz#432a51f7ba422d1469096c0fdc28e235db8f9643"
   integrity sha512-L/4pUDMxcNa8R/EthV08Zt42WBO4h1rarVtK0K+QJG0X187OLo7l699jWw0GKuwzkPQ//jMFA/8Xm6Fh3J/DAg==
 
-proto-tailwindcss-clrs@0.0.281:
-  version "0.0.281"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.281.tgz#76d49d147337ea203794721af06f6c3c5fa6c0bd"
-  integrity sha512-M29rntGg8tjRKP5vGraF99twvWEWFV6XotuIFF9iKeEO6lVmZ17NKJD8SiffR/FLQwMVs8+WdvKXVv1DxZ2fSw==
+proto-tailwindcss-clrs@0.0.282:
+  version "0.0.282"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.282.tgz#d8fa694594964fac159f7072ddb40d84d8cd9b8d"
+  integrity sha512-d/L2Wcpn9Mk6S8F452M9Jra4vlgeAApnV6XoDfGuF3BZd2Wc1jWrLPT4Kee6i2Gh9+ewgQy8hyfJwAJUawDz8A==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
