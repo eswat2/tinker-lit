@@ -28,10 +28,10 @@
     "concurrently": "8.2.2",
     "cspell": "8.1.0",
     "pettier": "1.1.0",
-    "postcss": "8.4.31",
+    "postcss": "8.4.32",
     "prettier": "3.1.0",
     "prettier-plugin-tailwindcss": "0.5.7",
-    "proto-tailwindcss-clrs": "0.0.291",
+    "proto-tailwindcss-clrs": "0.0.292",
     "tailwindcss": "3.3.5",
     "vite": "5.0.4"
   }
