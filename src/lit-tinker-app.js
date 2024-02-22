@@ -16,6 +16,12 @@ export class LitTinkerApp extends LitElement {
     sample: { type: Array },
   }
 
+  static get styles() {
+    return css`
+      ${unsafeCSS(appStyles)}
+    `
+  }
+
   constructor() {
     super()
 
@@ -45,12 +51,6 @@ export class LitTinkerApp extends LitElement {
           sample: this.sample,
         })}
       </div>
-    `
-  }
-
-  static get styles() {
-    return css`
-      ${unsafeCSS(appStyles)}
     `
   }
 }
