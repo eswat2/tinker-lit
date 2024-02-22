@@ -7,16 +7,31 @@ import {
   valuesFC,
 } from "./components"
 import appStyles from "./styles/app.css?raw"
-import { StoreController } from "@nanostores/lit"
 import { actions, state } from "./utils"
 
 export class LitTinkerApp extends LitElement {
-  sc = new StoreController(this, state)
+  static properties = {
+    clicks: { type: Number },
+    pick: { type: Number },
+    sample: { type: Array },
+  }
 
   constructor() {
     super()
 
     actions.init()
+
+    const { clicks, pick, sample } = state.get()
+
+    this.clicks = clicks
+    this.pick = pick
+    this.sample = sample
+
+    state.listen((value, _old, key) => {
+      if (this[key] != value[key]) {
+        this[key] = value[key]
+      }
+    })
   }
 
   render() {
@@ -24,13 +39,12 @@ export class LitTinkerApp extends LitElement {
 
     return html`
       <div class="ds1-main">
-        ${eswat2FC()} ${headerFC()}
-        ${controlsFC({ clicks: this.sc.value.clicks })}
-        ${colorsFC({ pick: this.sc.value.pick })}
+        ${eswat2FC()} ${headerFC()} ${controlsFC({ clicks: this.clicks })}
+        ${colorsFC({ pick: this.pick })}
         <hr class="ml-0 mr-0" />
         ${valuesFC({
-          pick: this.sc.value.pick,
-          sample: this.sc.value.sample,
+          pick: this.pick,
+          sample: this.sample,
         })}
       </div>
     `
