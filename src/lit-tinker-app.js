@@ -24,7 +24,11 @@ export class LitTinkerApp extends LitElement {
         this[key] = value[key]
       }
     })
+  }
 
+  connectedCallback() {
+    super.connectedCallback()
+    // NOTE:  this triggers the first update...
     actions.init()
   }
 
