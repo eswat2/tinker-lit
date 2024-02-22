@@ -19,19 +19,13 @@ export class LitTinkerApp extends LitElement {
   constructor() {
     super()
 
-    actions.init()
-
-    const { clicks, pick, sample } = state.get()
-
-    this.clicks = clicks
-    this.pick = pick
-    this.sample = sample
-
     state.listen((value, _old, key) => {
       if (this[key] != value[key]) {
         this[key] = value[key]
       }
     })
+
+    actions.init()
   }
 
   render() {
