@@ -1434,10 +1434,10 @@ nanoid@^3.3.7:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-nanostores@0.10.1:
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.10.1.tgz#d87f63a25f943a459d285ee4c9eb46780c082825"
-  integrity sha512-ehojEKwlu5sLAPbPV2um5ihjU/xW4I/yA7qdv0NFmG32fSmLUgYvUmNT1bcobDA5X/fcUqa4t8YbZgN5qARINQ==
+nanostores@0.10.2:
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.10.2.tgz#8f7bc1f95f236b227099c0ab965a07d4019b407a"
+  integrity sha512-Z/nqsDGQvjYTXZcVge06IS8OAJ8Lzb1jLUSAbDDomDBtlSXh88M4toUKW3iKwN+BfblEXhft0KlwJ+bgGi/Ysw==
 
 node-releases@^2.0.14:
   version "2.0.14"
