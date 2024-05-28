@@ -1,7 +1,7 @@
 {
   "name": "tinker-lit",
   "private": true,
-  "version": "0.0.203",
+  "version": "0.0.204",
   "type": "module",
   "files": [
     "dist"
