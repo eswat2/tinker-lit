@@ -26,7 +26,7 @@
   "devDependencies": {
     "autoprefixer": "10.4.19",
     "concurrently": "8.2.2",
-    "cspell": "8.11.0",
+    "cspell": "8.12.1",
     "pettier": "1.1.0",
     "postcss": "8.4.39",
     "prettier": "3.3.3",
