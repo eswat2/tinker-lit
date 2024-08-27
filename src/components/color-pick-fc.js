@@ -9,6 +9,7 @@ const colorPickFC = (props) => {
 
   return html`
     <div
+      aria-checked=${selected}
       aria-label=${value}
       title=${value}
       role="radio"
