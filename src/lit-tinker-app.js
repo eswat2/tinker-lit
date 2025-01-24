@@ -6,8 +6,8 @@ import {
   headerFC,
   valuesFC,
 } from "./components"
-import appStyles from "./styles/app.css?raw"
 import { actions, state } from "./utils"
+import "./styles/app.css"
 
 export class LitTinkerApp extends LitElement {
   static properties = {
@@ -16,10 +16,8 @@ export class LitTinkerApp extends LitElement {
     sample: { type: Array },
   }
 
-  static get styles() {
-    return css`
-      ${unsafeCSS(appStyles)}
-    `
+  createRenderRoot() {
+    return this
   }
 
   constructor() {
