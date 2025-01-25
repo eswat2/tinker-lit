@@ -910,9 +910,9 @@ cspell@8.17.2:
     tinyglobby "^0.2.10"
 
 electron-to-chromium@^1.5.73:
-  version "1.5.87"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.87.tgz#3a89bec85e43a8b32445ec938228e4ec982e0f79"
-  integrity sha512-mPFwmEWmRivw2F8x3w3l2m6htAUN97Gy0kwpO++2m9iT1Gt8RCFVUfv9U/sIbHJ6rY4P6/ooqFL/eL7ock+pPg==
+  version "1.5.88"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.88.tgz#cdb6e2dda85e6521e8d7d3035ba391c8848e073a"
+  integrity sha512-K3C2qf1o+bGzbilTDCTBhTQcMS9KW60yTAaTeeXsfvQuTDDwlokLam/AdqlqcSy9u4UainDgsHV23ksXAOgamw==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1210,10 +1210,10 @@ prettier@3.4.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
   integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
 
-proto-tailwindcss-clrs@0.0.397:
-  version "0.0.397"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.397.tgz#77bb596d38701a25f1dddbdd05610adb084f9f22"
-  integrity sha512-DHknaE10Pp39f85PjtN3/HrJ/WUtfSc6TXEESFfi0SHk3z0/zFruIdpFdRobBrVRhSUFIV4ahkYYG2qXsATqgQ==
+proto-tailwindcss-clrs@0.0.398:
+  version "0.0.398"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.398.tgz#3dd4f5693ba3ff521b0be07f038076cc3db06f0b"
+  integrity sha512-St2LbNbfjOwfViO3zFvqqAWBzLVmjjSfLejE051vmTpihAIDEVIQINs2zXbgu8YEEGKyHAbUqFZQo74bOrwWeg==
 
 repeat-string@^1.6.1:
   version "1.6.1"
