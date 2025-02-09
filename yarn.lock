@@ -118,9 +118,9 @@
     "@cspell/dict-shell" "1.1.0"
 
 "@cspell/dict-companies@^3.1.13":
-  version "3.1.13"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.1.13.tgz#dd99c462076cdad9a62918a9c4a53865a32f2c6f"
-  integrity sha512-EAaFMxnSG4eQKup9D81EnWAYIzorLWG7b7Zzf+Suu0bVeFBpCYESss/EWtnmb5ZZNfKAGxtoMqfL3vRfyJERIQ==
+  version "3.1.14"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-companies/-/dict-companies-3.1.14.tgz#3021973b6f6cbe82b9819669095f2094d0f3ed7f"
+  integrity sha512-iqo1Ce4L7h0l0GFSicm2wCLtfuymwkvgFGhmu9UHyuIcTbdFkDErH+m6lH3Ed+QuskJlpQ9dM7puMIGqUlVERw==
 
 "@cspell/dict-cpp@^6.0.3":
   version "6.0.3"
@@ -183,9 +183,9 @@
   integrity sha512-tKSSUf9BJEV+GJQAYGw5e+ouhEe2ZXE620S7BLKe3ZmpnjlNG9JqlnaBhkIMxKnNFkLY2BP/EARzw31AZnOv4g==
 
 "@cspell/dict-en_us@^4.3.30":
-  version "4.3.30"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-4.3.30.tgz#6256eb7835369a295d2f7ac96867a18db5c17d72"
-  integrity sha512-p0G5fByj5fUnMyFUlkN3kaqE3nuQkqpYV47Gn9n8k2TszsdLY55xj9UoFE4YIcjOiyU1bR/YDJ5daiPMYXTJ/A==
+  version "4.3.31"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-en_us/-/dict-en_us-4.3.31.tgz#ff00c979c5b5b0ffd80829ed7cf2aed5b698ff92"
+  integrity sha512-MDc+1B0aFwQONS0JZ6w7ks2KFGkUcaNTFJ8kI6GHvFRmEl3zP5NJDwFEXFsoEdLDb86j2myauSWMJXR3JFuwbA==
 
 "@cspell/dict-filetypes@^3.0.10":
   version "3.0.10"
@@ -303,9 +303,9 @@
   integrity sha512-CEbhPCpxGvRNByGolSBTrXXW2rJA4bGqZuTx1KKO85mwR6aadeOmUE7xf/8jiCkXSy+qvr9aJeh+jlfXcsrziQ==
 
 "@cspell/dict-npm@^5.1.24":
-  version "5.1.24"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-5.1.24.tgz#a34f292472980eab9af4e93dcdd6791d8632eab2"
-  integrity sha512-yAyyHetElLR236sqWQkBtiLbzCGexV5zzLMHyQPptKQQK88BTQR5f9wXW2EtSgJw/4gUchpSWQWxMlkIfK/iQQ==
+  version "5.1.25"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-5.1.25.tgz#2e7e92ae59304c33d3d512521095c9640b11d4e6"
+  integrity sha512-TME+o2s3S8kIyWyLIr9CieWYhBrLK1SaQWm5qguVxSDgXN6AkezpgqfHjR26KrZQft9tfLPuu+4S40KmiWp5vA==
 
 "@cspell/dict-php@^4.0.14":
   version "4.0.14"
@@ -355,9 +355,9 @@
   integrity sha512-D/xHXX7T37BJxNRf5JJHsvziFDvh23IF/KvkZXNSh8VqcRdod3BAz9VGHZf6VDqcZXr1VRqIYR3mQ8DSvs3AVQ==
 
 "@cspell/dict-software-terms@^4.2.4":
-  version "4.2.4"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-4.2.4.tgz#3bc651f2fc49bb2d2ffe5b2ec762d67d3565e342"
-  integrity sha512-GRkuaFfjFHPYynyRMuisKyE3gRiVK0REClRWfnH9+5iCs5TKDURsMpWJGNsgQ6N5jAKKrtWXVKjepkDHjMldjQ==
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-software-terms/-/dict-software-terms-4.2.5.tgz#7baf7abd410748b823805be16b01fd0ec85739d3"
+  integrity sha512-CaRzkWti3AgcXoxuRcMijaNG7YUk/MH1rHjB8VX34v3UdCxXXeqvRyElRKnxhFeVLB/robb2UdShqh/CpskxRg==
 
 "@cspell/dict-sql@^2.2.0":
   version "2.2.0"
@@ -706,9 +706,9 @@ callsites@^3.0.0, callsites@^3.1.0:
   integrity sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==
 
 caniuse-lite@^1.0.30001646, caniuse-lite@^1.0.30001688:
-  version "1.0.30001698"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001698.tgz#3e86d4bad6f87f493197fb2483a211fe8841abd3"
-  integrity sha512-xJ3km2oiG/MbNU8G6zIq6XRZ6HtAOVXsbOrP/blGazi52kc5Yy7b6sDA5O+FbROzRrV7BSTllLHuNvmawYUJjw==
+  version "1.0.30001699"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001699.tgz#a102cf330d153bf8c92bfb5be3cd44c0a89c8c12"
+  integrity sha512-b+uH5BakXZ9Do9iK+CkDmctUSEqZl+SP056vc5usa0PL+ev5OHw003rZXcnjNDv3L8P5j6rwT6C0BPKSikW08w==
 
 chalk-template@^1.1.0:
   version "1.1.0"
@@ -1205,10 +1205,10 @@ prettier-plugin-tailwindcss@0.6.11:
   resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.6.11.tgz#cfacd60c4f81997353ee913e589037f796df0f5f"
   integrity sha512-YxaYSIvZPAqhrrEpRtonnrXdghZg1irNg4qrjboCXrpybLWVs55cW2N3juhspVJiO0JBvYJT8SYsJpc8OQSnsA==
 
-prettier@3.4.2:
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.4.2.tgz#a5ce1fb522a588bf2b78ca44c6e6fe5aa5a2b13f"
-  integrity sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==
+prettier@3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.5.0.tgz#50325a28887c6dfdf2ca3f8eaba02b66a8429ca7"
+  integrity sha512-quyMrVt6svPS7CjQ9gKb3GLEX/rl3BCL2oa/QkNcXv4YNVBC9olt3s+H7ukto06q7B1Qz46PbrKLO34PR6vXcA==
 
 proto-tailwindcss-clrs@0.0.406:
   version "0.0.406"
@@ -1315,10 +1315,10 @@ supports-color@^8.1.1:
   dependencies:
     has-flag "^4.0.0"
 
-tailwindcss@4.0.4:
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.4.tgz#ab7b1d3b3fafc61221c618172c0582b908ff7ac5"
-  integrity sha512-/ezDLEkOLf1lXkr9F2iI5BHJbexJpty5zkV2B8bGHCqAdbc9vk85Jgdkq+ZOvNkNPa3yAaqJ8DjRt584Bc84kw==
+tailwindcss@4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.5.tgz#725c1b8589707e6d079b9940978d761be4a99b6b"
+  integrity sha512-DZZIKX3tA23LGTjHdnwlJOTxfICD1cPeykLLsYF1RQBI9QsCR3i0szohJfJDVjr6aNRAIio5WVO7FGB77fRHwg==
 
 tinyglobby@^0.2.10:
   version "0.2.10"
