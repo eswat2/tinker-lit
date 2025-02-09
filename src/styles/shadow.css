@@ -222,7 +222,3 @@
   border-radius: 10px;
   border-width: 1px;
 }
-@property --tw-font-weight {
-  syntax: "*";
-  inherits: false;
-}
