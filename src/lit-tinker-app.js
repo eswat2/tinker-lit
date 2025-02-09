@@ -7,7 +7,7 @@ import {
   valuesFC,
 } from "./components"
 import { actions, state } from "./utils"
-import appStyles from "./styles/utils.css?raw"
+import appStyles from "./styles/shadow.css?raw"
 
 export class LitTinkerApp extends LitElement {
   static properties = {
