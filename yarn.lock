@@ -188,9 +188,9 @@
   integrity sha512-MDc+1B0aFwQONS0JZ6w7ks2KFGkUcaNTFJ8kI6GHvFRmEl3zP5NJDwFEXFsoEdLDb86j2myauSWMJXR3JFuwbA==
 
 "@cspell/dict-filetypes@^3.0.10":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-filetypes/-/dict-filetypes-3.0.10.tgz#1d8a22da3320e507d2c33496e5194b090320f89b"
-  integrity sha512-JEN3627joBVtpa1yfkdN9vz1Z129PoKGHBKjXCEziJvf2Zt1LeULWYYYg/O6pzRR4yzRa5YbXDTuyrN7vX7DFg==
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-filetypes/-/dict-filetypes-3.0.11.tgz#2c1066833c7490108b7ed1e6193750b547a4ccb0"
+  integrity sha512-bBtCHZLo7MiSRUqx5KEiPdGOmXIlDGY+L7SJEtRWZENpAKE+96rT7hj+TUUYWBbCzheqHr0OXZJFEKDgsG/uZg==
 
 "@cspell/dict-flutter@^1.1.0":
   version "1.1.0"
@@ -208,9 +208,9 @@
   integrity sha512-oguWmHhGzgbgbEIBKtgKPrFSVAFtvGHaQS0oj+vacZqMObwkapcTGu7iwf4V3Bc2T3caf0QE6f6rQfIJFIAVsw==
 
 "@cspell/dict-fullstack@^3.2.3":
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-fullstack/-/dict-fullstack-3.2.3.tgz#f6fff74eff00c6759cba510168acada0619004cc"
-  integrity sha512-62PbndIyQPH11mAv0PyiyT0vbwD0AXEocPpHlCHzfb5v9SspzCCbzQ/LIBiFmyRa+q5LMW35CnSVu6OXdT+LKg==
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-fullstack/-/dict-fullstack-3.2.4.tgz#356356c51afa3d4ff411e17dcb46a9c265a612a5"
+  integrity sha512-JRRvaOLBZ13BO9sP395W+06tyO1Jy/87aFlKe9xQiCWMiwpCo2kGq0xBGq0PDWe253lYLs+GKrNmLU0fSxrObg==
 
 "@cspell/dict-gaming-terms@^1.1.0":
   version "1.1.0"
@@ -303,9 +303,9 @@
   integrity sha512-CEbhPCpxGvRNByGolSBTrXXW2rJA4bGqZuTx1KKO85mwR6aadeOmUE7xf/8jiCkXSy+qvr9aJeh+jlfXcsrziQ==
 
 "@cspell/dict-npm@^5.1.24":
-  version "5.1.25"
-  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-5.1.25.tgz#2e7e92ae59304c33d3d512521095c9640b11d4e6"
-  integrity sha512-TME+o2s3S8kIyWyLIr9CieWYhBrLK1SaQWm5qguVxSDgXN6AkezpgqfHjR26KrZQft9tfLPuu+4S40KmiWp5vA==
+  version "5.1.26"
+  resolved "https://registry.yarnpkg.com/@cspell/dict-npm/-/dict-npm-5.1.26.tgz#61ac745fefab56c8e926d53393429021173fee58"
+  integrity sha512-JU0/9P4nLPPC3Py+sF42tUKm9J4KAvwXaJubp2a4QwhCPzFVlOJTP2tTseFlLbdZn23d61pt0hZ+Jhyy7N76Mg==
 
 "@cspell/dict-php@^4.0.14":
   version "4.0.14"
@@ -1315,10 +1315,10 @@ supports-color@^8.1.1:
   dependencies:
     has-flag "^4.0.0"
 
-tailwindcss@4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.5.tgz#725c1b8589707e6d079b9940978d761be4a99b6b"
-  integrity sha512-DZZIKX3tA23LGTjHdnwlJOTxfICD1cPeykLLsYF1RQBI9QsCR3i0szohJfJDVjr6aNRAIio5WVO7FGB77fRHwg==
+tailwindcss@4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.6.tgz#c033bfba94d6e3bf70650a2f9fe949f39d3bb191"
+  integrity sha512-mysewHYJKaXgNOW6pp5xon/emCsfAMnO8WMaGKZZ35fomnR/T5gYnRg2/yRTTrtXiEl1tiVkeRt0eMO6HxEZqw==
 
 tinyglobby@^0.2.10:
   version "0.2.10"
