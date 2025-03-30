@@ -26,12 +26,12 @@
   "devDependencies": {
     "autoprefixer": "10.4.21",
     "concurrently": "9.1.2",
-    "cspell": "8.18.0",
+    "cspell": "8.18.1",
     "pettier": "1.1.0",
     "postcss": "8.5.3",
     "prettier": "3.5.3",
     "prettier-plugin-tailwindcss": "0.6.11",
-    "proto-tailwindcss-clrs": "0.0.413",
+    "proto-tailwindcss-clrs": "0.0.414",
     "tailwindcss": "4.0.17",
     "vite": "6.2.3"
   }
