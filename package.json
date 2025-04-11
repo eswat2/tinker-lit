@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "lit": "3.2.1",
-    "nanostores": "0.11.4"
+    "nanostores": "1.0.1"
   },
   "devDependencies": {
     "autoprefixer": "10.4.21",
