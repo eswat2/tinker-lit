@@ -704,9 +704,9 @@ autoprefixer@10.4.21:
     postcss-value-parser "^4.2.0"
 
 baseline-browser-mapping@^2.8.3:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.8.8.tgz#ca0de7b23bf9c49d72e21dcbfba26f2bb223ea2e"
-  integrity sha512-be0PUaPsQX/gPWWgFsdD+GFzaoig5PXaUC1xLkQiYdDnANU8sMnHoQd8JhbJQuvTWrWLyeFN9Imb5Qtfvr4RrQ==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.8.9.tgz#fd0b8543c4f172595131e94965335536b3101b75"
+  integrity sha512-hY/u2lxLrbecMEWSB0IpGzGyDyeoMFQhCvZd2jGFSE5I17Fh01sYUBPCJtkWERw7zrac9+cIghxm/ytJa2X8iA==
 
 browserslist@^4.24.4:
   version "4.26.2"
@@ -784,15 +784,13 @@ commander@^14.0.0:
   integrity sha512-2JkV3gUZUVrbNA+1sjBOYLsMZ5cEEl8GTFP2a4AVz5hvasAMCQ1D2l2le/cX+pV4N6ZU17zjUahLpIXRrnWL8A==
 
 comment-json@^4.2.5:
-  version "4.2.5"
-  resolved "https://registry.yarnpkg.com/comment-json/-/comment-json-4.2.5.tgz#482e085f759c2704b60bc6f97f55b8c01bc41e70"
-  integrity sha512-bKw/r35jR3HGt5PEPm1ljsQQGyCrR8sFGNiN5L+ykDHdpO8Smxkrkla9Yi6NkQyUrb8V54PGhfMs6NrIwtxtdw==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/comment-json/-/comment-json-4.3.0.tgz#74e1f35b4a6b76ac000d5cb8d02f950e44ff68ee"
+  integrity sha512-DczdmbvWLd09KATFWY0xcihOO45b32+5V34vZg1oelxqgjtGJotaLrrdFpJRLOdG6Wb031qcg4zOKgnQoBWbEw==
   dependencies:
     array-timsort "^1.0.3"
     core-util-is "^1.0.3"
     esprima "^4.0.1"
-    has-own-prop "^2.0.0"
-    repeat-string "^1.6.1"
 
 concurrently@9.2.1:
   version "9.2.1"
@@ -928,9 +926,9 @@ cspell@9.2.1:
     tinyglobby "^0.2.14"
 
 electron-to-chromium@^1.5.218:
-  version "1.5.226"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.226.tgz#2f9f795829dc5c5d1c5387f4c2648ca180cc933d"
-  integrity sha512-0tS/r72Ze0WUBiDwnqw4X43TxA7gEuZg0kFwLthoCzkshIbNQFjkf6D8xEzBe6tY6Y65fUhZIuNedTugw+11Lw==
+  version "1.5.227"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.227.tgz#c81b6af045b0d6098faed261f0bd611dc282d3a7"
+  integrity sha512-ITxuoPfJu3lsNWUi2lBM2PaBPYgH3uqmxut5vmBxgYvyI4AlJ6P3Cai1O76mOrkJCBzq0IxWg/NtqOrpu/0gKA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1035,11 +1033,6 @@ has-flag@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
-
-has-own-prop@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/has-own-prop/-/has-own-prop-2.0.0.tgz#f0f95d58f65804f5d218db32563bb85b8e0417af"
-  integrity sha512-Pq0h+hvsVm6dDEa8x82GnLSYHOzNDt7f0ddFa3FqcQlgzEiptPqL+XrOJNavjOzSYiYWIrgeVYYgGlLmnxwilQ==
 
 import-fresh@^3.3.1:
   version "3.3.1"
@@ -1162,15 +1155,10 @@ prettier@3.6.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.2.tgz#ccda02a1003ebbb2bfda6f83a074978f608b9393"
   integrity sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==
 
-proto-tailwindcss-clrs@0.0.445:
-  version "0.0.445"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.445.tgz#3059e7454d337cc3df5751e251487e9006ac0645"
-  integrity sha512-LQLjam0PJNB+fh9ZZQLI31th71Owfll5tZNWB+9R3q5kKRJO81kOoFJIUveMUH3wRQzcWDvroIXDGaRe79zwqQ==
-
-repeat-string@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/repeat-string/-/repeat-string-1.6.1.tgz#8dcae470e1c88abc2d600fff4a776286da75e637"
-  integrity sha512-PV0dzCYDNfRi1jCDbJzpW7jNNDRuCOG/jI5ctQcGKt/clZD+YcPS3yIlWuTJMmESC8aevCFmWJy5wjAFgNqN6w==
+proto-tailwindcss-clrs@0.0.446:
+  version "0.0.446"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.446.tgz#0e603c6ef6d3a02a011a38ea0d004f5006e60891"
+  integrity sha512-jqztedruUUNE5KiNylr+P9P6A0bUuTvQo7nx79Gj7M2ZdA1M9TXIO0BzoUSOZCmXLydY+1ji0JlGIPMGkSUExw==
 
 require-directory@^2.1.1:
   version "2.1.1"
