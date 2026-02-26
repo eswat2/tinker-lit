@@ -1,7 +1,7 @@
 {
   "name": "tinker-lit",
   "private": true,
-  "version": "0.0.484",
+  "version": "0.0.485",
   "type": "module",
   "engines": {
     "node": ">=18"
