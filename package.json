@@ -10,7 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "bump": "bumpp patch --yes",
+    "bump": "bumpp patch --commit --tag --push --yes",
     "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
     "release": "pnpm bump && pnpm build && pnpm deploy-app",
     "preinstall": "npx only-allow pnpm",
@@ -26,11 +26,11 @@
   },
   "dependencies": {
     "lit": "3.3.2",
-    "nanostores": "1.1.1"
+    "nanostores": "1.2.0"
   },
   "devDependencies": {
     "autoprefixer": "10.4.27",
-    "bumpp": "10.4.1",
+    "bumpp": "11.0.0",
     "concurrently": "9.2.1",
     "cspell": "9.7.0",
     "only-allow": "1.2.2",
@@ -38,7 +38,7 @@
     "postcss": "8.5.8",
     "prettier": "3.8.1",
     "prettier-plugin-tailwindcss": "0.7.2",
-    "proto-tailwindcss-clrs": "0.0.474",
+    "proto-tailwindcss-clrs": "0.0.477",
     "tailwindcss": "4.2.1",
     "vite": "8.0.0",
     "yoctocolors": "2.1.2"
