@@ -9,6 +9,12 @@
   "files": [
     "dist"
   ],
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild", 
+      "proto-tailwindcss-clrs"
+    ]
+  },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
     "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
@@ -35,10 +41,10 @@
     "cspell": "10.0.0",
     "only-allow": "1.2.2",
     "pettier": "1.1.0",
-    "postcss": "8.5.13",
+    "postcss": "8.5.14",
     "prettier": "3.8.3",
     "prettier-plugin-tailwindcss": "0.8.0",
-    "proto-tailwindcss-clrs": "0.0.488",
+    "proto-tailwindcss-clrs": "0.0.489",
     "tailwindcss": "4.2.4",
     "vite": "8.0.10",
     "yoctocolors": "2.1.2"
