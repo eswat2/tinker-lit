@@ -32,7 +32,7 @@
     "autoprefixer": "10.5.0",
     "bumpp": "11.1.0",
     "concurrently": "10.0.0",
-    "cspell": "10.0.0",
+    "cspell": "10.0.1",
     "only-allow": "1.2.2",
     "pettier": "1.1.0",
     "postcss": "8.5.15",
