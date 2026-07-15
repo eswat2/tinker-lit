@@ -37,8 +37,8 @@
     "pettier": "1.1.0",
     "postcss": "8.5.19",
     "prettier": "3.9.5",
-    "prettier-plugin-tailwindcss": "0.8.0",
-    "proto-tailwindcss-clrs": "0.0.515",
+    "prettier-plugin-tailwindcss": "0.8.1",
+    "proto-tailwindcss-clrs": "0.0.516",
     "tailwindcss": "4.3.2",
     "vite": "8.1.4",
     "yoctocolors": "2.1.2"
