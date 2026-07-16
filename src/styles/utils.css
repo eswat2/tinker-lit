@@ -1,4 +1,4 @@
-/*! tailwindcss v4.3.2 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v4.3.3 | MIT License | https://tailwindcss.com */
 @layer theme, base, components, utilities;
 @layer utilities {
   .absolute {
@@ -23,7 +23,7 @@
     margin-top: calc(var(--spacing) * 11);
   }
   .mr-0 {
-    margin-right: 0;
+    margin-right: 0px;
   }
   .mr-10px {
     margin-right: 10px;
@@ -35,7 +35,7 @@
     margin-bottom: calc(var(--spacing) * 11);
   }
   .ml-0 {
-    margin-left: 0;
+    margin-left: 0px;
   }
   .ml-auto {
     margin-left: auto;
@@ -121,22 +121,16 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  .hover\:text-clrs-navy {
-    &:hover {
-      @media (hover: hover) {
-        color: var(--clrs-navy, #001f3f);
-      }
-    }
-  }
-  .active\:bg-clrs-gray {
-    &:active {
-      background-color: var(--clrs-gray, #aaaaaa);
-    }
-  }
-  .active\:text-clrs-navy {
-    &:active {
+  @media (hover: hover) {
+    .hover\:text-clrs-navy:hover {
       color: var(--clrs-navy, #001f3f);
     }
+  }
+  .active\:bg-clrs-gray:active {
+    background-color: var(--clrs-gray, #aaaaaa);
+  }
+  .active\:text-clrs-navy:active {
+    color: var(--clrs-navy, #001f3f);
   }
 }
 @layer components {
@@ -151,9 +145,9 @@
   }
   .ds1-header {
     margin-top: calc(var(--spacing) * 11);
-    margin-right: 0;
+    margin-right: 0px;
     margin-bottom: calc(var(--spacing) * 11);
-    margin-left: 0;
+    margin-left: 0px;
     text-align: center;
     font-size: var(--text-6xl);
     line-height: var(--tw-leading, var(--text-6xl--line-height));
