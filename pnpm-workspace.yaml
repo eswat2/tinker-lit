@@ -7,5 +7,4 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - nanostores@1.5.0
-  - proto-tailwindcss-clrs@0.0.535
+  - nanostores@1.5.1
