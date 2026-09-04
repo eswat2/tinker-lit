@@ -29,16 +29,16 @@
     "nanostores": "1.5.3"
   },
   "devDependencies": {
-    "autoprefixer": "10.5.4",
+    "autoprefixer": "10.5.5",
     "bumpp": "12.3.0",
     "concurrently": "10.0.5",
-    "cspell": "10.2.1",
+    "cspell": "10.2.2",
     "only-allow": "1.2.2",
     "pettier": "1.1.0",
-    "postcss": "8.5.27",
+    "postcss": "8.5.28",
     "prettier": "3.9.6",
     "prettier-plugin-tailwindcss": "0.8.1",
-    "proto-tailwindcss-clrs": "0.0.542",
+    "proto-tailwindcss-clrs": "0.0.543",
     "tailwindcss": "4.3.3",
     "vite": "8.2.2",
     "yoctocolors": "2.2.0"
