@@ -29,5 +29,5 @@ minimumReleaseAgeExclude:
   - cspell-lib@10.3.4
   - cspell-trie-lib@10.3.4
   - cspell@10.3.4
+  - nanostores@1.5.4
   - proto-tailwindcss-clrs@0.0.554
-  - vite@8.3.1
