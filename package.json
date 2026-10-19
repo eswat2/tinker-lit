@@ -35,10 +35,10 @@
     "cspell": "10.4.0",
     "only-allow": "1.2.2",
     "pettier": "1.1.0",
-    "postcss": "8.5.30",
+    "postcss": "8.5.31",
     "prettier": "3.9.10",
     "prettier-plugin-tailwindcss": "0.8.1",
-    "proto-tailwindcss-clrs": "0.0.565",
+    "proto-tailwindcss-clrs": "0.0.567",
     "tailwindcss": "4.3.3",
     "vite": "8.3.4",
     "yoctocolors": "2.2.0"
