@@ -43,8 +43,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier@3.10.1)
       proto-tailwindcss-clrs:
-        specifier: 0.0.580
-        version: 0.0.580
+        specifier: 0.0.581
+        version: 0.0.581
       tailwindcss:
         specifier: 4.3.5
         version: 4.3.5
@@ -427,8 +427,8 @@ packages:
     resolution: {integrity: sha512-ZXfg7MT3AT9ZOq/hgzbqNc01zVPG+PFkr+kbB2OHlMcNrtvK10ZPkNgy38MqTErjNeajh4VG1sSSv5zIyjOXxg==}
     engines: {node: '>=22.18.0'}
 
-  '@tybys/wasm-util@0.10.4':
-    resolution: {integrity: sha512-W3c4gRigFS0T/Ma4qIYF3GDAc5AQdHb1yL5znJT1Zv1YaD9Kitx656wBjvr19qbiosmZT8lWDM5BEMynUqX65A==}
+  '@tybys/wasm-util@0.10.5':
+    resolution: {integrity: sha512-dOGOPxlaNV+G046mZzN+9C0dAcQZeSKcXiVaM0TYy/LM4ttTmgSBDxYfovcYI8Em3+eAbiAYpvWLOv8+ZVRJKA==}
 
   '@types/trusted-types@2.0.7':
     resolution: {integrity: sha512-ScaPdn1dQczgbl0QFTeTOmVHFULt394XJgOQNoyVhZ6r2vLnMLJfBPd53SB52T/3G36VI1/g2MZaX0cwDuXsfw==}
@@ -814,8 +814,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.580:
-    resolution: {integrity: sha512-mf35vva1NBD/ZnXJ0eni+/zt28bOsx9OheoLMtr6hbxKZQebNQhh6ooUuYYgpqLUMBQB2frgu+nctv8gQGYl7w==}
+  proto-tailwindcss-clrs@0.0.581:
+    resolution: {integrity: sha512-5hiZU9SKwGrvIOTupFpn9gmMeIU/UpcJ1dNcJYU5VT/MvqHcJ1pEWl+ABjXtBdqNAaAl4M3lJ9UKjrvuZdkfLA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -1228,7 +1228,7 @@ snapshots:
     dependencies:
       '@emnapi/core': 2.0.0-beta.2
       '@emnapi/runtime': 2.0.0-beta.2
-      '@tybys/wasm-util': 0.10.4
+      '@tybys/wasm-util': 0.10.5
     optional: true
 
   '@oxc-project/types@0.156.0': {}
@@ -1293,7 +1293,7 @@ snapshots:
 
   '@streetsidesoftware/unindent@1.0.1': {}
 
-  '@tybys/wasm-util@0.10.4':
+  '@tybys/wasm-util@0.10.5':
     dependencies:
       tslib: 2.9.1
     optional: true
@@ -1611,7 +1611,7 @@ snapshots:
 
   prettier@3.10.1: {}
 
-  proto-tailwindcss-clrs@0.0.580: {}
+  proto-tailwindcss-clrs@0.0.581: {}
 
   quansync@1.0.0: {}
 
